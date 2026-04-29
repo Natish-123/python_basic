@@ -1,0 +1,10 @@
+a=100
+b=20
+c=80
+print("Addition:",a+b+c)
+print("Subraction:",a-b-c)
+print("Multiplication:",a*b*c)
+print("Division:",a/b/c)
+print("Modulus:",a%b%c)
+print("Floor:",a//b//c)
+print("Square:",a**b**c)
